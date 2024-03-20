@@ -548,3 +548,9 @@ video, audio {
             "profile-text2 profile-text2";
     }
 }
+
+@media screen and (max-width: 550px) {
+    .body {
+        font-size: 15px;
+    }
+}
